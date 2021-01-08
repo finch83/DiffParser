@@ -37,3 +37,5 @@ DiffParser.creator
 DiffParser.files
 DiffParser.includes
 DiffParser.creator.user
+
+CMakeLists.txt.user
